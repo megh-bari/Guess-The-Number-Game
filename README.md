@@ -21,7 +21,7 @@ To get started with the game on your local machine, follow these steps:
 
 1. **Clone the repository:**
 ```bash
-   git clone https://github.com/yourusername/guess-the-number-game.git
+   git clone https://github.com/megh-bari/guess-the-number-game.git
  ```
  2. **Compile the code:**
 ```bash
