@@ -20,21 +20,22 @@ This is a simple command-line based "Guess the Number" game in C. The game gener
 To get started with the game on your local machine, follow these steps:
 
 1. **Clone the repository:**
-
+   ```bash
    git clone https://github.com/yourusername/guess-the-number-game.git
-
+    ```
  2. **Compile the code:**
-
+```bash
  gcc guess_the_number.c -o guess_the_number
- 
+```  
+  
 3.**Run the game:**
-
+```bash
 ./guess_the_number
-
+``` 
 ## How to Play
 - The game will generate a random number between 1 and 100.
 - You need to guess the number by entering an integer between 1 and 100.
 - The game will provide hints:
-   If your guess is higher than the target number, it will say "Lower number please!"
-   If your guess is lower than the target number, it will say "Higher number please!"
-   If your guess is correct, it will tell you how many attempts you took to guess the number.
+  -- If your guess is higher than the target number, it will say "Lower number please!"
+   --If your guess is lower than the target number, it will say "Higher number please!"
+  -- If your guess is correct, it will tell you how many attempts you took to guess the number.
