@@ -39,3 +39,8 @@ To get started with the game on your local machine, follow these steps:
   - If your guess is higher than the target number, it will say "Lower number please!"
   - If your guess is lower than the target number, it will say "Higher number please!"
   - If your guess is correct, it will tell you how many attempts you took to guess the number.
+ 
+## License
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+Feel free to contribute, report issues, or suggest improvements. Enjoy the game!
