@@ -20,9 +20,9 @@ This is a simple command-line based "Guess the Number" game in C. The game gener
 To get started with the game on your local machine, follow these steps:
 
 1. **Clone the repository:**
-   ```bash
+```bash
    git clone https://github.com/yourusername/guess-the-number-game.git
-    ```
+ ```
  2. **Compile the code:**
 ```bash
  gcc guess_the_number.c -o guess_the_number
