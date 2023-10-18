@@ -36,6 +36,6 @@ To get started with the game on your local machine, follow these steps:
 - The game will generate a random number between 1 and 100.
 - You need to guess the number by entering an integer between 1 and 100.
 - The game will provide hints:
-  -- If your guess is higher than the target number, it will say "Lower number please!"
-   --If your guess is lower than the target number, it will say "Higher number please!"
-  -- If your guess is correct, it will tell you how many attempts you took to guess the number.
+  - If your guess is higher than the target number, it will say "Lower number please!"
+  - If your guess is lower than the target number, it will say "Higher number please!"
+  - If your guess is correct, it will tell you how many attempts you took to guess the number.
