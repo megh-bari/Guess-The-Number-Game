@@ -44,3 +44,8 @@ To get started with the game on your local machine, follow these steps:
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 Feel free to contribute, report issues, or suggest improvements. Enjoy the game!
+
+
+Replace `"megh-bari"` in the clone URL with your actual GitHub username. Make sure to create a `LICENSE` file in your repository with the appropriate license text if you haven't already, and include the correct file name if it's different from `"guess_the_number.c"`.
+
+This README provides a brief overview of your project, how to get started, and how to play the game. It also includes a section on the project's license and encourages contributions. You can further customize it to fit your specific project's needs.
